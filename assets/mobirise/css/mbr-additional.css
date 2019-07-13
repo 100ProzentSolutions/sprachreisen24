@@ -1909,6 +1909,9 @@ body {
 .cid-rsPGn5rSQp .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-rsPGn5rSQp P {
+  color: #ffffff;
+}
 .cid-ru2rL9KqcJ .navbar {
   background: #efefef;
   transition: none;
